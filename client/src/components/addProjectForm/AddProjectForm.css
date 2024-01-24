@@ -1,0 +1,11 @@
+.add-project-form {
+  width: 50%;
+  padding: 3rem;
+}
+
+@media (max-width: 920px) {
+  .add-project-form {
+    width: 100%;
+    padding: 3rem 1rem;
+  }
+}
